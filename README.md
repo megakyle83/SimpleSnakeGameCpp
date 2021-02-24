@@ -1,0 +1,2 @@
+# SimpleSnakeGameCpp
+C++ game project
